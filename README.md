@@ -1,7 +1,7 @@
 <h1>Merhabalar! 👋 Ben Tanju...</h1>
 
 <p>
-	Şu anda İstanbul, Türkiye'de yaşayan bir Yazılım geliştiricisiyim.
+	Şu anda Antalya'da, Türkiye'de yaşayan bir Yazılım geliştiricisiyim.
 	İlgi alanlarım teknolojiden müziğe kadar uzanıyor.
 	Ayrıca futbol, video oyunları ve astronomi ile ilgileniyorum.
 </p>
