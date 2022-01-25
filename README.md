@@ -25,7 +25,7 @@
 <h2>Kullandığım IDE ve Editörler</h2>
 <p>
 	<code><img src="https://github.com/tanjubozok/tanjubozok/blob/main/icons/vs.png" height="40" width="40"></code>
-	<code><img src="https://github.com/tanjubozok/tanjubozok/blob/main/icons/ssms.png" height="40" width="40"></code>
+	<code><img src="https://github.com/tanjubozok/tanjubozok/blob/main/icons/ssms.png" height="40" width="50"></code>
 	<code><img src="https://github.com/tanjubozok/tanjubozok/blob/main/icons/vscode.png" height="40" width="40"></code>
 </p>
 
