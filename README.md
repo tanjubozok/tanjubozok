@@ -38,9 +38,3 @@
 		<code><img src="https://github.com/tanjubozok/tanjubozok/blob/main/icons/twitter.png" height="40" width="40"></code>	
 	</a>
 </p>
-
-<p>
-	<a href="https://app.daily.dev/tanjubozok">
-		<img src="https://api.daily.dev/devcards/7eb16736832f4f88b6628fc8f9fe773d.png?r=m13" width="400" alt="Tanju BOZOK's Dev Card"/>
-	</a>
-</p>
