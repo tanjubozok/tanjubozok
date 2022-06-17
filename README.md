@@ -4,7 +4,7 @@ Hi 👋 My name is Tanju BOZOK
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Istanbul
+* 🌍  I'm based in Istanbul, Turkey
 * 🖥️  See my portfolio at [tanjubozok.com](http://tanjubozok.com)
 * ✉️  You can contact me at [tnjbzk@gmail.com](mailto:tnjbzk@gmail.com)
 * 🚀  I'm currently working on [BMB IT Company](http://bmbitcompany.com/)
