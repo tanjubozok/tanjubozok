@@ -1,7 +1,7 @@
 Hi 👋 My name is Tanju BOZOK
 ============================
 
-Full Stack Developer
+Senior Software Developer
 --------------------
 
 * 🌍  I'm based in Istanbul, Turkey
