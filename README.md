@@ -4,10 +4,10 @@ Hi 👋 My name is Tanju BOZOK
 Senior Software Developer
 --------------------
 
-* 🌍  I'm based in Istanbul, Turkey
+* 🌍  I'm based in Lisbon, Portugal
 * 🖥️  See my portfolio at [tanjubozok.com](http://tanjubozok.com)
 * ✉️  You can contact me at [tnjbzk@gmail.com](mailto:tnjbzk@gmail.com)
-* 🚀  I'm currently working on [BMB IT Company](http://bmbitcompany.com/)
+* 🚀  I'm currently working on [Bmb IT Industry and Trade Ltd. Co.](http://bmbitcompany.com/)
 * 🧠  I'm learning .Net Technologies and React
 
 <a href="https://www.twitter.com/tanjubozok" target="_blank" rel="noreferrer"><img
