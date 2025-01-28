@@ -8,7 +8,8 @@ I am a software developer focused on the .NET ecosystem. I am passionate about b
 - Developing web applications with ASP.NET Core
 - Database modeling and management with Entity Framework Core
 - Designing and integrating RESTful APIs
-- Cloud-based solutions (Azure) - Test-driven development (TDD)
+- Cloud-based solutions (Azure)
+- Test-driven development (TDD)
 
 
 🧠 I'm learning Angular for building dynamic and responsive front-end applications,
