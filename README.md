@@ -2,7 +2,6 @@ Hi 👋 My name is Tanju BOZOK
 ============================
 
 I am a software developer focused on the .NET ecosystem. I am passionate about building innovative, scalable, and user-friendly software solutions. 
-- ✉️ You can contact me at [tanjubozok@hotmail.com](mailto:tanjubozok@hotmail.com)
 
 💻 My Expertise: 
 - Developing web applications with ASP.NET Core
