@@ -1,6 +1,5 @@
 Hi 👋 My name is Tanju BOZOK
 ============================
-
 I am a software developer focused on the .NET ecosystem. I am passionate about building innovative, scalable, and user-friendly software solutions. 
 
 My Expertise: 
@@ -9,7 +8,7 @@ My Expertise:
 - Designing and integrating RESTful APIs
 - Cloud-based solutions (Azure)
 - Test-driven development (TDD)
-
+- 
 I'm currently diving deeper into:
 - Angular: Mastering dynamic and responsive front-end development.
 - Microservices Architecture: Building scalable and efficient systems with .NET and Docker.
