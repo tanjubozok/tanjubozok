@@ -8,7 +8,7 @@ My Expertise:
 - Designing and integrating RESTful APIs
 - Cloud-based solutions (Azure)
 - Test-driven development (TDD)
-- 
+  
 I'm currently diving deeper into:
 - Angular: Mastering dynamic and responsive front-end development.
 - Microservices Architecture: Building scalable and efficient systems with .NET and Docker.
