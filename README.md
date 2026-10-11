@@ -1,17 +1,22 @@
-Hi 👋 My name is Tanju BOZOK
-============================
-I am a software developer focused on the .NET ecosystem. I am passionate about building innovative, scalable, and user-friendly software solutions. 
+# Hi, I’m Tanju Bozok
 
-My Expertise: 
-- Developing web applications with ASP.NET Core
-- Database modeling and management with Entity Framework Core
-- Designing and integrating RESTful APIs
-- Cloud-based solutions (Azure)
-- Test-driven development (TDD)
-  
-I'm currently diving deeper into:
-- Angular: Mastering dynamic and responsive front-end development.
-- Microservices Architecture: Building scalable and efficient systems with .NET and Docker.
-- Azure DevOps: Streamlining CI/CD pipelines for seamless deployments.
-- Advanced C# Features: Enhancing my expertise in async programming, Span<T>, and performance optimization.
-- Design Patterns: Applying best practices to create clean, maintainable, and robust software solutions.
+I’m a **Senior .NET Engineer** focused on backend architecture, real-time communication, distributed systems, and device integration.
+
+I design and develop production systems using **C#, ASP.NET Core, PostgreSQL, and SQL Server**. My experience includes end-to-end development of CRM and manufacturing platforms, telemetry, monitoring, real-time data streaming, and business-critical workflows.
+
+I work with **SignalR, MQTT, and OCPP** for real-time communication and device connectivity. My engineering focus includes asynchronous processing, query optimization, reliability, testing, and observability through structured logging and distributed tracing.
+
+## Core technologies
+
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, ADO.NET
+- **Data:** PostgreSQL, SQL Server, Oracle, MySQL
+- **Real-time communication:** SignalR, MQTT, OCPP
+- **Architecture:** Clean Architecture, N-Tier, Modular Monolith, microservices, event-driven systems, DDD, CQRS
+- **Frontend:** Angular, TypeScript
+- **Delivery:** Azure, Docker, Azure DevOps, CI/CD
+- **Security and quality:** JWT, OAuth 2.0, xUnit, MSTest, TDD, observability
+
+I contribute to architecture decisions, code reviews, performance optimization, troubleshooting, and mentoring. I’m interested in the trade-offs behind engineering choices and in keeping systems maintainable as they evolve.
+
+I write about .NET, architecture, design patterns, and engineering decisions at [tanjubozok.com](https://tanjubozok.com/).
+
